@@ -2,9 +2,8 @@
 
 Starting code for a sass static site. Contains:
 
-- Folders organized after the ITCSS architecture
-- Favicon
-- An npm task runner for compile and watch, and for build (autoprefixer and minimise)
+- Folders and basic files organized after the ITCSS architecture principles
+- An npm task runner for compile and watch (start), and for build with autoprefixer and css min. (build:css)
 
 ## Start
 ```
