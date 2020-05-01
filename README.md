@@ -1,6 +1,6 @@
 # Sass Boilerplate
 
-## Starting code for a sass static site. Contains:
+Starting code for a sass static site. Contains:
 
 - Folders organized after the ITCSS architecture
 - Favicon
